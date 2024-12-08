@@ -67,4 +67,7 @@ Använda dynamisk route matching för att hämta och visa data för ett specifik
 # Beskriv hur du använt AI utveckling av din applikation.
 
 Jag har använt AI när jag stötte på fel och inte visste hur jag skulle lösa dem. 
-Jag frågade AI och det var mycket bra för att lösa problem och fel, men ibland fungerade det inte och jag var tvungen att följa dokumentationen. För att styla min kod och fråga om vissa funktioner frågade jag också AI om hur de fungerar. Men jag försökte mest följa dokumentationen. Det har varit en väldigt bra erfarenhet för mig.
+Jag frågade AI och det var mycket bra för att lösa problem och fel, men ibland fungerade det inte 
+och jag var tvungen att följa dokumentationen. För att styla min kod och fråga om vissa funktioner 
+frågade jag också AI om hur de fungerar. Men jag försökte mest följa dokumentationen. 
+Det har varit en väldigt bra erfarenhet för mig.
