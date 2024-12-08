@@ -53,6 +53,12 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 # Tailwind CSS
 - npx nuxi@latest module add tailwindcss
 
-Applicationen är Recepie Food jobba med Typescript och jobbade med Nuxt, finns flera sidor och fetch API key med UseFetch limit 14 recepie, om vill mer kan vi ändra dem, lägg till mappen som type.ts och konfigur alla type på mappen och seden importera över allt där jg behöver det. Använda dynamisk route matching för att hämta och visa data för ett specifikt element från webanropet, även vid refresh eller om sidan öppnas i ett nytt fönster (ex: recept.se/sommar-paj).
+Applicationen är Recepie Food jobba med Typescript och jobbade med Nuxt,
+finns flera sidor och fetch API key med UseFetch limit 14 recepie,
+om vill mer kan vi ändra dem, lägg till mappen som type.ts 
+och konfigur alla type på mappen och seden importera över allt där jg behöver det.
+Använda dynamisk route matching för att hämta och visa data för ett specifikt element från webanropet,
+även vid refresh eller om sidan öppnas i ett nytt fönster (ex: recept.se/sommar-paj).
+
 - Hantera sidor som inte finns (404)
 - Använd provide / inject från root component till valfri child component med default värde som fallback
