@@ -10,14 +10,7 @@ Make sure to install dependencies:
 # npm
 npm install
 
-# pnpm
-pnpm install
 
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
 ## Development Server
@@ -28,14 +21,7 @@ Start the development server on `http://localhost:3000`:
 # npm
 npm run dev
 
-# pnpm
-pnpm dev
 
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
 ## Production
@@ -46,30 +32,10 @@ Build the application for production:
 # npm
 npm run build
 
-# pnpm
-pnpm build
 
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
 
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
@@ -87,3 +53,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 # Tailwind CSS
 - npx nuxi@latest module add tailwindcss
 
+Applicationen är Recepie Food jobba med Typescript och jobbade med Nuxt, finns flera sidor och fetch API key med UseFetch limit 14 recepie, om vill mer kan vi ändra dem, lägg till mappen som type.ts och konfigur alla type på mappen och seden importera över allt där jg behöver det. Använda dynamisk route matching för att hämta och visa data för ett specifikt element från webanropet, även vid refresh eller om sidan öppnas i ett nytt fönster (ex: recept.se/sommar-paj).
+- Hantera sidor som inte finns (404)
+- Använd provide / inject från root component till valfri child component med default värde som fallback
